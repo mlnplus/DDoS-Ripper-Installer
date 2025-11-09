@@ -1,6 +1,5 @@
 @echo off
 
-REM Check for python3 or python in PATH
 where python3 >nul 2>&1
 if %errorlevel%==0 (
     set PYTHON=python3
@@ -18,27 +17,21 @@ if %errorlevel%==0 (
 
 echo Using python command: %PYTHON%
 
-REM Clone the repo and wait for completion
 start /wait cmd /c "git clone https://github.com/palahsu/DDoS-Ripper"
 
-REM Verify repo cloned
 if not exist "DDoS-Ripper" (
     echo Failed to clone repository. Check your network or git installation.
     pause
     exit /b
 )
 
-REM Install required Python packages
 %PYTHON% -m pip install --upgrade pip
 %PYTHON% -m pip install rich pyfiglet
 
-REM Move ddos.py to repo folder
 move /Y ddos.py "%CD%\DDoS-Ripper\ddos.py"
 
-REM Run the script in a new terminal window
 start cmd /c "drippertopath.bat"
 
-REM Run the script in a new terminal window
 start cmd /k "cd DDoS-Ripper && %PYTHON% ddos.py"
 
 
