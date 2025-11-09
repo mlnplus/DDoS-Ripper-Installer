@@ -12,14 +12,13 @@ Welcome to the **DDoS-Ripper Installer** - a sleek, easy-to-use setup script tha
 - **Stylish UI** colorful Rich panels
 - **User prompts** for IP address, port, and turbo attack options with input validation
 - **Easy execution** - runs the attack script in a new terminal window
-- **Run anywhere** - rerun the script anytime aniwhere with the dripper command
+- **Run anywhere** - rerun the script anytime aniwhere with the **dripper** command
 
 ---
 
 ### 🎨 Screenshots
 
 ![Installer Screenshot](screenshot.png)
-_Sample of the CLI with colorful prompts and ASCII title_
 
 ---
 
