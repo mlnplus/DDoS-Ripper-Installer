@@ -10,7 +10,7 @@ Welcome to the **DDoS-Ripper Installer** - a sleek, easy-to-use setup script tha
 ---
 ### ❕ Requirements
 
-- Python3 (any version)
+- [Python3](https://www.python.org/downloads/)
 - [Git](https://git-scm.com/install/windows)
 
 ### 🔥 Features
