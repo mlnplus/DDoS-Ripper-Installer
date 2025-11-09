@@ -15,19 +15,22 @@ if %errorlevel% neq 0 (
 REM Your other commands go here
 REM For example:
 
+set "PYTHON="
 where python3 >nul 2>&1
 if %errorlevel%==0 (
-    set PYTHON=python3
+    set "PYTHON=python3"
 ) else (
     where python >nul 2>&1
     if %errorlevel%==0 (
-        set PYTHON=python
-    ) else (
-        echo Python3 or Python is not installed or not in PATH.
-        echo Please install Python 3 and add it to PATH.
-        pause
-        exit /b
+        set "PYTHON=python"
     )
+)
+
+if not defined PYTHON (
+    echo Python3 or Python is not installed or not in PATH.
+    echo Please install Python 3 and add it to PATH.
+    pause
+    exit /b
 )
 
 echo Using python command: %PYTHON%
