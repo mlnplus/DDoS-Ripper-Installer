@@ -35,7 +35,7 @@ Welcome to the **DDoS-Ripper Installer** - a sleek, easy-to-use setup script tha
 You can use my part of the code and modify it if you want. 
 For the usage of DDoS-Ripper i personally asked for permission from [@palashu](https://github.com/palahsu/)
 
-### ❗️ Important
+### ❗️❗️❗️ Important
 
 I did not create DDoS-Ripper neither do i own it!
 This script is built around the code without modifying it!
