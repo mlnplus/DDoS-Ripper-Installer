@@ -1,5 +1,20 @@
 @echo off
 
+REM Check if git is installed
+where git >nul 2>&1
+if %errorlevel% neq 0 (
+    echo Git is not installed. Please install it through the official Git page.
+    echo Opening the Git download page in your browser...
+    start https://git-scm.com/install/windows
+    pause
+    exit /b
+) else (
+    echo Git is installed.
+)
+
+REM Your other commands go here
+REM For example:
+
 where python3 >nul 2>&1
 if %errorlevel%==0 (
     set PYTHON=python3
@@ -33,5 +48,3 @@ move /Y ddos.py "%CD%\DDoS-Ripper\ddos.py"
 start cmd /c "drippertopath.bat"
 
 start cmd /k "cd DDoS-Ripper && %PYTHON% ddos.py"
-
-
