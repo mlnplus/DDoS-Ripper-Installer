@@ -2,7 +2,7 @@
 
 Welcome to the **DDoS-Ripper Installer** - a sleek, easy-to-use setup script that clones the DDoS-Ripper repository, prepares your environment, and launches the attack tool with a stylish interface.
 
-**VirusTotal Check:** https://www.virustotal.com/gui/file/a412fd36351b9f9251a8ed4f7f48d507dc8a44fe85340addfe76bdb4ceb0d9ec?nocache=1
+**VirusTotal Check:** https://www.virustotal.com/gui/file/a412fd36351b9f9251a8ed4f7f48d507dc8a44fe85340addfe76bdb4ceb0d9ec?nocache=1<br>
 *(I dont know why its flagged by some vendors, especially miscrosoft but i can guarantee that none of this code contains malware and if you dont believe me you can check the files since they are all uploaded.)*
 
 ---
