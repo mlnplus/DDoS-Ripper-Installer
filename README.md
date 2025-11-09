@@ -30,3 +30,19 @@ Welcome to the **DDoS-Ripper Installer** - a sleek, easy-to-use setup script tha
 
 3. Enjoy!
 
+### ❗️ Important
+
+I did not create DDoS-Ripper neither do i own it!
+This script is built around the code without modifying it!
+All credit goes to the original creators and contributors for making the base code.
+
+**What this script does:**
+
+-> Installs the DDoS-Ripper repository from github
+-> Checks if python3 is installed
+-> Updated pip and installs the requirements (rich & pyfiglet)
+-> Runs my script wich only asks you for the information required to run the DRipper command
+-> Starts DRipper with the given information
+
+## **ONLY USE THIS SCRIPT AT YOUR OWN RISK!!!**
+## **YOU CAN GET INVOLVED IN LEGAL ACTION FOR THE USAGE OFF THIS SCRIPT!!!**
