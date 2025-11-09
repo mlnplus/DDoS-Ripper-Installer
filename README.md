@@ -24,7 +24,7 @@ Welcome to the **DDoS-Ripper Installer** - a sleek, easy-to-use setup script tha
 
 ### ⚙️ Installation & Usage
 
-1. Download the DDoS-Ripper-Installer.exe file.
+1. Download the DDoS-Ripper-Setup.exe file.
 
 2. Run the installer. 
 
