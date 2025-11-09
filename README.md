@@ -8,6 +8,10 @@ Welcome to the **DDoS-Ripper Installer** - a sleek, easy-to-use setup script tha
 *(I dont know why its flagged by some vendors, especially miscrosoft but i can guarantee that none of this code contains malware and if you dont believe me you can check the files since they are all uploaded.)*
 
 ---
+### ❕ Requirements
+
+- Python3 (any version)
+- [Git](https://git-scm.com/install/windows)
 
 ### 🔥 Features
 
