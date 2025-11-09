@@ -12,9 +12,9 @@ Welcome to the **DDoS-Ripper Installer** - a sleek, easy-to-use setup script tha
 - **Automated clone** of the [DDoS-Ripper GitHub repo](https://github.com/palahsu/DDoS-Ripper)
 - **Python environment validation** - checks if Python 3 is installed
 - **Dynamic dependency installation**: automatically installs required Python packages (`rich` and `pyfiglet`)
-- **Stylish UI** colorful Rich panels
+- **Stylish UI** with colorful Rich panels
 - **User prompts** for IP address, port, and turbo attack options with input validation
-- **Easy execution** - runs the attack script in a new terminal window
+- **Easy execution** - runs the attack script after install
 - **Run anywhere** - rerun the script anytime aniwhere with the **`dripper`** command
 
 ---
@@ -51,6 +51,7 @@ All credit goes to the original creators and contributors for making the base co
 - Updated pip and installs the requirements (rich & pyfiglet)
 - Runs my script wich only asks you for the information required to run the DRipper command
 - Starts DRipper with the given information
+- Add the **`dripper`** command so you can run the script anywhere anytime
 
 ## **ONLY USE THIS SCRIPT AT YOUR OWN RISK!!!**
 ## **YOU CAN GET INVOLVED IN LEGAL ACTION FOR THE USAGE OFF THIS SCRIPT!!!**
