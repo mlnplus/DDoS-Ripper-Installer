@@ -9,7 +9,8 @@ Welcome to the **DDoS-Ripper Installer** - a sleek, easy-to-use setup script tha
 
 ### 💬 Contacting
 
-- 
+- [Discord](https://discord.com/users/578581299070238721)
+- [Telegram](https://t.me/mlnplushu)
 
 ---
 ### ❕ Requirements
