@@ -5,7 +5,11 @@ Welcome to the **DDoS-Ripper Installer** - a sleek, easy-to-use setup script tha
 ### THIS SCRIPT IS FOR EDUCATIONAL PURPOSES ONLY! I DONT TAKE ANY RESPONSIBILITY AFTER ANYTHING THAT HAPPENS WHILE OR AFTER THE USAGE OF THE SCRIPT!
 
 **VirusTotal Check:** https://www.virustotal.com/gui/file/a412fd36351b9f9251a8ed4f7f48d507dc8a44fe85340addfe76bdb4ceb0d9ec?nocache=1<br>
-*(I dont know why its flagged by some vendors, especially miscrosoft but i can guarantee that none of this code contains malware and if you dont believe me you can check the files since they are all uploaded.)*
+*(I dont know why its flagged by some vendors, especially miscrosoft but i can guarantee that none of this code contains malware.)*
+
+### 💬 Contacting
+
+- 
 
 ---
 ### ❕ Requirements
@@ -21,7 +25,7 @@ Welcome to the **DDoS-Ripper Installer** - a sleek, easy-to-use setup script tha
 - **Stylish UI** with colorful Rich panels
 - **User prompts** for IP address, port, and turbo attack options with input validation
 - **Easy execution** - runs the attack script after install
-- **Run anywhere** - rerun the script anytime aniwhere with the **`dripper`** command
+- **Run anywhere** - rerun the script anytime aniwhere with the **`ddos`** command
 
 ---
 
@@ -57,7 +61,7 @@ All credit goes to the original creators and contributors for making the base co
 - Updated pip and installs the requirements (rich & pyfiglet)
 - Runs my script wich only asks you for the information required to run the DRipper command
 - Starts DRipper with the given information
-- Add the **`dripper`** command so you can run the script anywhere anytime
+- Add the **`ddos`** command so you can run the script anywhere anytime
 
 ## **ONLY USE THIS SCRIPT AT YOUR OWN RISK!!!**
 ## **YOU CAN GET INVOLVED IN LEGAL ACTION FOR THE USAGE OFF THIS SCRIPT!!!**
