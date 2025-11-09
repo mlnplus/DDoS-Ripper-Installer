@@ -44,10 +44,14 @@ Welcome to the **DDoS-Ripper Installer** - a sleek, easy-to-use setup script tha
 
 3. Enjoy!
 
+---
+
 ### 🔧 Script Modification and Code Reusage
 
 You can use my part of the code and modify it if you want. 
-For the usage of DDoS-Ripper i personally asked for permission from [@palashu](https://github.com/palahsu/)
+For the usage of DDoS-Ripper i personally asked for permission from [@palashu](https://github.com/palahsu/).
+
+---
 
 ### ❗️❗️❗️ Important
 
@@ -63,6 +67,8 @@ All credit goes to the original creators and contributors for making the base co
 - Runs my script wich only asks you for the information required to run the DRipper command
 - Starts DRipper with the given information
 - Add the **`ddos`** command so you can run the script anywhere anytime
+
+---
 
 ## **ONLY USE THIS SCRIPT AT YOUR OWN RISK!!!**
 ## **YOU CAN GET INVOLVED IN LEGAL ACTION FOR THE USAGE OFF THIS SCRIPT!!!**
