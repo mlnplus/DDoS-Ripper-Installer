@@ -6,7 +6,7 @@ Name "${APPNAME} v${VERSION}"
 OutFile "DDoS-Ripper-Setup.exe"
 InstallDir "${INSTALLFOLDER}"
 InstallDirRegKey HKLM "Software\${APPNAME}" "Install_Dir"
-RequestExecutionLevel admin  ; Typically required to write to Program Files folder
+RequestExecutionLevel admin
 
 Page components
 Page instfiles
